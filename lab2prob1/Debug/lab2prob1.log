@@ -1,0 +1,18 @@
+﻿  lab2prob1.cpp
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(8,13): error C3646: 'name': unknown override specifier
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(14,22): error C2061: syntax error: identifier 'string'
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(18,16): error C3646: 'getNume': unknown override specifier
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(18,16): error C2059: syntax error: '('
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(18,18): error C2238: unexpected token(s) preceding ';'
+  Telefon.cpp
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(8,13): error C3646: 'name': unknown override specifier
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(8,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(14,22): error C2061: syntax error: identifier 'string'
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(18,16): error C3646: 'getNume': unknown override specifier
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(18,16): error C2059: syntax error: '('
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(18,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.cpp(9,17): error C2039: 'getNume': is not a member of 'Telefon'
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.h(5): message : see declaration of 'Telefon'
+C:\Users\User\source\repos\laborator2\lab2prob1\lab2prob1\Telefon.cpp(11,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  Generating Code...
